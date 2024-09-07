@@ -13,21 +13,8 @@ Beyond the Temperature: Get a comprehensive picture with wind speed, air quality
 Sunrise & Sunset: Never miss a breathtaking sunrise or sunset again – Nimbus Weather has you covered.<br/>
 Nimbus Weather: Your Pocket-Sized Weather Guru<br/>
 
-Keep [Nimbus Weather](https://itsaryanchauhan.github.io/Nimbus-Weather/) on hand and stay informed about the ever-changing weather. It's like having your own personal weather guru at your fingertips!
+Keep [Nimbus Weather](https://prakshark.github.io/Nimbus-Weather-Contribution/) on hand and stay informed about the ever-changing weather. It's like having your own personal weather guru at your fingertips!
 
-## 📋 Table of Contents
-
-1. [Product Demo](#product-demo)
-2. [Tech-Stack](#tech-stack)
-3. [Key Features](#key-features)
-4. [Prerequisites](#prerequisites)
-5. [Installation](#installation)
-6. [Functionality](#functionality)
-7. [Contributing](#contributing)
-
-
-## 🧮 <a name="tech-stack">Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
 
 ## 🚀 <a name="product-demo">Product Demo
 
@@ -41,7 +28,7 @@ Keep [Nimbus Weather](https://itsaryanchauhan.github.io/Nimbus-Weather/) on hand
 
 #Demo:
 
-https://github.com/itsaryanchauhan/Nimbus-Weather/assets/146752682/8f4928c1-052f-4d10-895c-0efa5ca42dbf
+https://prakshark.github.io/Nimbus-Weather-Contribution/
 
 
 
@@ -57,17 +44,6 @@ https://github.com/itsaryanchauhan/Nimbus-Weather/assets/146752682/8f4928c1-052f
 ## ⚙ <a name="prerequisites">Prerequisites
 - Modern web browser (Chrome, Firefox, Safari, etc.).<br/>
 - Internet connection to fetch weather data from the OpenWeather API.
-
-## 👾 <a name="installation">Installation
-
-1. Clone the repository or download the project files to your local machine.
-  ```
-  git clone https://github.com/itsaryanchauhan/Nimbus-Weather.git
-  cd Nimbus-Weather
-  ```
-2. Open `index.html` in VS Code
-   Right Click anywhere in the code and CLick `Open With Live Server` 
-
 
 ## 🏆 <a name="functionality">Functionality
 
